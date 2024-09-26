@@ -1,4 +1,5 @@
 import math
+
 z = float(input("Введите значение z: "))
 y = float(input("Введите значение y: "))
 cos_diff = math.cos(z) - math.cos(y)
